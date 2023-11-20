@@ -1,0 +1,29 @@
+.img{
+  width: 250px;
+  height: 300px;
+  margin: 0 auto;
+}
+.cartItems{
+  display: flex;
+  margin: 50px;
+
+}
+.cartItem h5,button,h6,p{
+  padding-right: 20px;
+}
+.cartItem button{
+  background-color: transparent;
+  border: none;
+}
+.cartItem{
+  display: flex;
+}
+.cartItems .citem{
+  width:70px;
+}
+.cart{
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto ;
+}
